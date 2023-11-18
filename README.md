@@ -51,6 +51,7 @@ $ rsync -avhP /Users/<replace_with_your_user>/Library/Containers/com.docker.dock
 ```
 
 ### Delete your old docker storage
+Verify docker is operational then remove old storage 
 ```
 $ rm -r /Users/<replace_with_your_user>/Library/Containers/com.docker.docker/Data
 ```
