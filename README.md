@@ -49,3 +49,8 @@ This set involves either using cp/rsync or mv to get the com.docker.docker direc
 ```
 $ rsync -avhP /Users/<replace_with_your_user>/Library/Containers/com.docker.docker /Volumes/<replace_with_external_ssd_name>/Containers
 ```
+
+### Delete your old docker storage
+```
+$ rm -r /Users/<replace_with_your_user>/Library/Containers/com.docker.docker/Data
+```
