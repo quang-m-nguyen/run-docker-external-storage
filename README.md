@@ -7,7 +7,7 @@ This solution was suggested in this [Docker Forum Post](https://forums.docker.co
 This tutorial is specifically tailored for macOS users and has been tested on macOS version 14.1 Sonomo. It may not be applicable to other versions or operating systems.
 
 ## Setup 
-Follow these steps both before and after installing Docker. Begin the setup without Docker installed on your system.
+Follow these steps both before and after installing Docker. Begin the setup without Docker installed on your system.  Uninstall if you do
 
 ## Pre Docker Installation 
 1. [Download and install Docker CE for macOS](https://docs.docker.com/docker-for-mac/install/).
